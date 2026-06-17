@@ -1,0 +1,1 @@
+export const ORDER_CLIENT_TOKEN = Symbol('ORDER_CLIENT_TOKEN');

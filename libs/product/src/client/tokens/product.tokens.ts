@@ -1,0 +1,1 @@
+export const PRODUCT_CLIENT_TOKEN = Symbol('PRODUCT_CLIENT_TOKEN');
